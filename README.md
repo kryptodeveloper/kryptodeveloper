@@ -1,0 +1,3 @@
+- 👋 Hello, I’m @kryptodeveloper. 
+- 👀 I’m currently interested in C#.
+- 🌱 I’m currently learning C++, C and Java.
